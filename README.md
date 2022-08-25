@@ -1,4 +1,3 @@
-My first readme
 cd alx-pre_course
 mkdir 0x01-git
 cd 0x01-git
